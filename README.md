@@ -4,31 +4,29 @@ Alma Braun @2021
 
 <img alt="GitHub" src="https://img.shields.io/github/license/Alma-Dev914/Readme-Generator">
 
-This page is under licesnsed of ![GitHub](https://img.shields.io/github/license/Alma-Dev914/Readme-Generator)
-
 Github Repository :[Github Repo](https://github.com/ALMA-DEV914/README-Generator)
         
-## Description:
+## Description<a name="description"></a>
     This app will help you write or create a proffessional README file for your projects.
         
 ## Table of contents
     
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+    1. [Description](#description)
+    2. [Installation](#installation)
+    3. [Usage](#usage)
+    4. [License](#license)
+    5. [Contributing](#contributing)
+    6. [Tests](#tests)
+    7. [Questions](#questions)
         
-## Installation
+## Installation<a name="installation"></a>
     First install node, navigate to your directory and type npm init on the command line. Then type npm install inquirer where helps to push the questions out to the user
 
-## Usage
+## Usage<a name="usage"></a>
 
     Install and download on your computer then answer the questions on your terminal
     
-## License
+## License<a name="license"></a>
     MIT License
 
 Copyright (c) 2021 Alma Braun
@@ -51,13 +49,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
     
-## Contributing
+## Contributing<a name="contirbuting"></a>
     Email me for the instructions
 
-## Tests
+## Tests<a name="tests"></a>
     You can test by downloading the file from Github and run on your terminal or with jest for testing.
     
-## Questions
+## Questions<a name="questions"></a>
   Contact me here: <a href = "mailto: aungonalna58@gmail.com"> aungonalna58@gmail.com</a>
 
 Github Profile: <a href="https://github.com/ALMA-DEV914">ALMA-DEV914</a> 

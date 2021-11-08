@@ -1,6 +1,7 @@
 # Readme-Generator
 
-    This project is licensed under the [![GNU License](https://img.shields.io/badge/license-None-blue.svg)](#license) .
+    This page is under licesnsed of ![GitHub](https://img.shields.io/github/license/Alma-Dev914/Readme-Generator)
+
         
 ## Description:
     This app will help you write or create a proffessional README file for your projects.
