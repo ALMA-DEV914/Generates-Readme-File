@@ -8,7 +8,13 @@ Github Repository :[Github Repo](https://github.com/ALMA-DEV914/README-Generator
         
 ## Description<a name="description"></a>
 This app will help you write or create a proffessional README file for your projects.
-        
+<img width="1792" alt="Screen Shot 2021-11-08 at 7 49 15 AM" src="https://user-images.githubusercontent.com/65073138/140776465-88d4b330-bdd6-4d39-b6ad-779051020501.png">
+
+    <img width="1792" alt="Screen Shot 2021-11-08 at 7 52 40 AM" src="https://user-images.githubusercontent.com/65073138/140776485-e8f304e5-cb16-429a-a157-fba220634989.png">
+    
+    <img width="1792" alt="Screen Shot 2021-11-08 at 8 03 02 AM" src="https://user-images.githubusercontent.com/65073138/140776577-5cc011c3-3158-4a37-8d54-cbcf057266b7.png">
+
+    
 ## Table of contents
     
 1. [Description](#description)
