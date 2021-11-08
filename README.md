@@ -1,7 +1,7 @@
 [How to create a Professional README](./readme-guide.md)
 # Readme-Generator
 
-    This project is licensed under the [![GNU License](https://img.shields.io/badge/license-None-blue.svg)](#license) .
+    This project is licensed under the: [https://img.shields.io/github/license/Alma-Dev914/Readme-Generator](#license) .
         
 ## Description:
     This app will help you write or create a proffessional README file for your projects.
