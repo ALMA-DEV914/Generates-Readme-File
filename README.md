@@ -4,7 +4,9 @@ Alma Braun @2021
 
 <img alt="GitHub" src="https://img.shields.io/github/license/Alma-Dev914/Readme-Generator">
 
-[Github Repo:](https://github.com/ALMA-DEV914/README-Generator)
+This page is under licesnsed of ![GitHub](https://img.shields.io/github/license/Alma-Dev914/Readme-Generator)
+
+Github Repository :[Github Repo](https://github.com/ALMA-DEV914/README-Generator)
         
 ## Description:
     This app will help you write or create a proffessional README file for your projects.
@@ -56,8 +58,8 @@ SOFTWARE.
     You can test by downloading the file from Github and run on your terminal or with jest for testing.
     
 ## Questions
-  Contact me here: <a href = "mailto: aungionalna58@gmail.com"> aungonalna58@gmail.com</a>
+  Contact me here: <a href = "mailto: aungonalna58@gmail.com"> aungonalna58@gmail.com</a>
 
-Github Profile: <a href=" https://github.com/ALMA-DEV914">ALMA_DEV914</a> 
+Github Profile: <a href="https://github.com/ALMA-DEV914">ALMA-DEV914</a> 
 
     
