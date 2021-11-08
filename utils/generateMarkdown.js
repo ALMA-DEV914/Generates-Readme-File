@@ -16,8 +16,8 @@ function renderLicenseSection(license) {
 ![GitHub]("https://img.shields.io/github/license/Alma-Dev914/Readme-Generator")
 }           
 // TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+function generateMarkdown(title) {
+  return `# ${response.title}
      
 `;
 }
