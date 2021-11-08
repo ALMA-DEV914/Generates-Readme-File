@@ -1,27 +1,28 @@
 # Readme Generator
-    This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
+This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
         
-    ## Description:
-    It helps you create readme file faster
+## Description:
+It helps you create readme file faster
         
         
-    ## Table of contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+## Table of contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
         
-    ## Installation
-    npm init -y
+## Installation
+npm init -y
 
-    ## Usage
-    It creates readme file easier
+## Usage
+It creates readme file easier
 
-    ## License
-   GNU GENERAL PUBLIC LICENSE 
+## License
+
+GNU GENERAL PUBLIC LICENSE 
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -697,13 +698,13 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-    ## Contributing
-    Contact me for the instructions
+## Contributing
+Contact me for the instructions
 
-    ## Tests
-    npm test
+## Tests
+npm test
 
-    ## Questions
-    For questions please contact: Alma Braun
-    at  aungonalna58@gmail.com
-    Github Profile: https://github.com/ALMA-DEV914 
+## Questions
+For questions please contact: Alma Braun
+at  aungonalna58@gmail.com
+Github Profile: https://github.com/ALMA-DEV914 
