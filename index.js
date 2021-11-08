@@ -12,7 +12,7 @@ const genLicense = require('./utils/generateMarkdown');
         },
         {
           type: 'input',
-          message: "Add your name to the ReadME",
+          message: "Add your name to the Readme",
           name: 'author',
         },
         {
@@ -28,7 +28,7 @@ const genLicense = require('./utils/generateMarkdown');
         },
         {
             type: 'input',
-            message: 'Explain how this will be used',
+            message: 'Provide information of appliaction usage',
             name: 'usage',
           },
           {
@@ -55,7 +55,7 @@ const genLicense = require('./utils/generateMarkdown');
           {
             type:'list',
             name: 'license',
-            message: "What kind of license",
+            message: "What kind of license you are using?",
             choices: [
               'MIT',
               'GNU',
