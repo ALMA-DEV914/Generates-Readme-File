@@ -94,7 +94,7 @@ const genLicense = require('./utils/generateMarkdown');
         }
     
         // set the variables for the readME
-        const fileName = 'GeneratedReadMes\\ReadMe.md'
+        const fileName = 'GeneratedReadMe.md'
     
         // set the profile for the readME
         var profile = "https://github.com/"+response.gitHubUser
