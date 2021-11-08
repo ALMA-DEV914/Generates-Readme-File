@@ -2,7 +2,7 @@
 This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
         
 ## Description:
-It helps you create readme file faster
+It helps you buuld or create a README file faster for your projects
         
         
 ## Table of contents
@@ -18,10 +18,9 @@ It helps you create readme file faster
 npm init -y
 
 ## Usage
-It creates readme file easier
+To write readme file easier in a proffessional layout
 
 ## License
-
 GNU GENERAL PUBLIC LICENSE 
 Version 3, 29 June 2007
 
@@ -699,7 +698,7 @@ Public License instead of this License.  But first, please read
 
 
 ## Contributing
-Contact me for the instructions
+Contact me for instructions
 
 ## Tests
 npm test

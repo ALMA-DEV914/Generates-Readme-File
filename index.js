@@ -139,7 +139,7 @@ const inquirer = require('inquirer');
     
     
     fs.writeFile(fileName, readContents, (err) => err ? console.log(err) : console.log('Success'))
-      })
+      });
       }
     
     // run it to generate readME
