@@ -28,7 +28,7 @@ const genLicense = require('./utils/generateMarkdown');
         },
         {
             type: 'input',
-            message: 'Provide information of appliaction usage',
+            message: 'Provide information of application usage',
             name: 'usage',
           },
           {
@@ -97,7 +97,7 @@ const genLicense = require('./utils/generateMarkdown');
         const fileName = 'GenerateReadme.md'
     
         // set the profile for the readME
-        var profile = "https://github.com/"+response.gitHubUser
+        const profile = "https://github.com/" + response.gitHubUser
     
         // create the total contents for the readME
         let readContents = `# ${response.title}
@@ -118,14 +118,19 @@ const genLicense = require('./utils/generateMarkdown');
         
     ## Installation
     ${response.install}
+
     ## Usage
     ${response.usage}
+
     ## License
-    ${genLicense}
+   ${genLicense}
+
     ## Contributing
     ${response.contribute}
+
     ## Tests
     ${response.test}
+
     ## Questions
     For questions please contact: ${response.author}
     at  ${response.email}
@@ -133,7 +138,7 @@ const genLicense = require('./utils/generateMarkdown');
     
     
     
-      fs.writeFile(fileName, readContents, (err) => err ? console.log(err) : console.log('We did it!'))
+    fs.writeFile(fileName, readContents, (err) => err ? console.log(err) : console.log('Success'))
       })
       }
     
@@ -142,11 +147,11 @@ const genLicense = require('./utils/generateMarkdown');
     
       
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+//function writeToFile(fileName,data) {}
     
 // TODO: Create a function to initialize app
-function init() {}
+//function init() {}
 
 // Function call to initialize app
- init();
+ //init();
 
