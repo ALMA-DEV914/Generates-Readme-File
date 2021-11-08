@@ -8,6 +8,20 @@ Github Repository :[Github Repo](https://github.com/ALMA-DEV914/README-Generator
         
 ## Description<a name="description"></a>
 This app will help you write or create a proffessional README file for your projects.
+The way it works, first you have to download the file from github and navigate to the directory of this file on your terminal. Type 'node index.js' and you will be prompt of few questions about your project as the image shows below. You have to answer all questions otherwise you cannot go through to the next questions.
+
+<img width="1792" alt="Screen Shot 2021-11-08 at 8 10 04 AM" src="https://user-images.githubusercontent.com/65073138/140778444-52117023-f336-469f-9cdf-e9d4ca8acbff.png">
+
+Then after you answers all the questions, it will generate a string of data/responses that you inputed. Some questions have their default answers in it, so just key in that.
+
+<img width="1792" alt="Screen Shot 2021-11-08 at 8 12 50 AM" src="https://user-images.githubusercontent.com/65073138/140778473-b25a8fff-dd7f-4c41-8a37-fb8bca5039dd.png">
+
+After responses/answers were captured and saved, then it will create a Readme file like the image below. To check how the page looks like, you can view the file by right click and hit the 'open preview' and boom! You have your Readme generated.
+<img width="1792" alt="Screen Shot 2021-11-08 at 8 14 47 AM" src="https://user-images.githubusercontent.com/65073138/140778514-fe10005e-1eca-4c73-b635-559dbf4baa20.png">
+
+After you check that file was created, go to your terminal and add, commit and push to your Github Repository. You can view the created file on [GeneratedReadMes\\ReadMe.md](./GeneratedReadMes\\ReadMe.md)
+
+<img width="1792" alt="Screen Shot 2021-11-08 at 8 17 15 AM" src="https://user-images.githubusercontent.com/65073138/140778541-155b21b6-83d4-4b06-b3ce-e57b80546570.png">
 
     
 ## Table of contents
