@@ -1,29 +1,30 @@
 # Readme-Generator
 
-    This page is under licesnsed of ![GitHub](https://img.shields.io/github/license/Alma-Dev914/Readme-Generator)
+This page is under licesnsed of ![GitHub](https://img.shields.io/github/license/Alma-Dev914/Readme-Generator)
 
         
 ## Description:
-    This app will help you write or create a proffessional README file for your projects.
+This app will help you write or create a proffessional README file for your projects.
         
 ## Table of contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
         
 ## Installation
-    First install node, navigate to your directory and type npm init on the command line. Then type npm install inquirer where helps to push the questions out to the user
+First install node, navigate to your directory and type npm init on the command line. Then type npm install inquirer where helps to push the questions out to the user
 
 ## Usage
 
-    Install and download on your computer then answer the questions on your terminal
+Install and download on your computer then answer the questions on your terminal
     
 ## License
-    MIT License
+MIT License
 
 Copyright (c) 2021 Alma Braun
 
@@ -46,11 +47,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
     
 ## Contributing
-    Email me for the instructions
+Email me for the instructions
 ## Tests
-    You can test by downloading the file from Github and run on your terminal or with jest for testing.
+You can test by downloading the file from Github and run on your terminal or with jest for testing.
     
 ## Questions
-    For questions please contact: Alma Braun
-    at  aungonalna58@gmail.com
-    Github Profile: https://github.com/ALMA-DEV914 
+Contact me here: <a href = "mailto: aungonalna58@gmail.com"> aungonalna58@gmail.com</a>
+
+Github Profile: <a href="https://github.com/ALMA-DEV914">ALMA-DEV914</a> 

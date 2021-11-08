@@ -7,27 +7,28 @@ Alma Braun @2021
 Github Repository :[Github Repo](https://github.com/ALMA-DEV914/README-Generator)
         
 ## Description<a name="description"></a>
-    This app will help you write or create a proffessional README file for your projects.
+This app will help you write or create a proffessional README file for your projects.
         
 ## Table of contents
     
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [License](#license)
-    5. [Contributing](#contributing)
-    6. [Tests](#tests)
-    7. [Questions](#questions)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [License](#license)
+5. [Contributing](#contributing)
+6. [Tests](#tests)
+7. [Questions](#questions)
         
 ## Installation<a name="installation"></a>
-    First install node, navigate to your directory and type npm init on the command line. Then type npm install inquirer where helps to push the questions out to the user
+First install node, navigate to your directory and type npm init on the command line. Then type npm install inquirer where helps to push the questions out to the user
 
 ## Usage<a name="usage"></a>
 
-    Install and download on your computer then answer the questions on your terminal
+Install and download on your computer then answer the questions on your terminal
     
 ## License<a name="license"></a>
-    MIT License
+
+MIT License
 
 Copyright (c) 2021 Alma Braun
 
@@ -50,13 +51,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
     
 ## Contributing<a name="contirbuting"></a>
-    Email me for the instructions
+Email me for the instructions
 
 ## Tests<a name="tests"></a>
-    You can test by downloading the file from Github and run on your terminal or with jest for testing.
+You can test by downloading the file from Github and run on your terminal or with jest for testing.
     
 ## Questions<a name="questions"></a>
-  Contact me here: <a href = "mailto: aungonalna58@gmail.com"> aungonalna58@gmail.com</a>
+Contact me here: <a href = "mailto: aungonalna58@gmail.com"> aungonalna58@gmail.com</a>
 
 Github Profile: <a href="https://github.com/ALMA-DEV914">ALMA-DEV914</a> 
 
