@@ -2,7 +2,7 @@
 This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
         
 ## Description:
-It helps you buuld or create a README file faster for your projects
+This app helps you build or create a proffessional Readme file for your projects
         
         
 ## Table of contents
@@ -18,7 +18,7 @@ It helps you buuld or create a README file faster for your projects
 npm init -y
 
 ## Usage
-To write readme file easier in a proffessional layout
+The used of this app is to write a Readme file faster
 
 ## License
 GNU GENERAL PUBLIC LICENSE 
@@ -698,12 +698,12 @@ Public License instead of this License.  But first, please read
 
 
 ## Contributing
-Contact me for instructions
+Contact me for the instructions and guide
 
 ## Tests
 npm test
 
 ## Questions
 For questions please contact: Alma Braun
-at  aungonalna58@gmail.com
+at  augonalna58@gmail.com
 Github Profile: https://github.com/ALMA-DEV914 
