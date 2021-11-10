@@ -2,7 +2,7 @@
     This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
         
     ## Description:
-    Readme Generator
+    An application that helps you build Readme faster
         
         
     ## Table of contents
@@ -17,7 +17,7 @@
     ## Installation
     npm init -y
     ## Usage
-    It helps you write Readme file faster for your projects
+    It is an appliaction that creates a professional Readme file for your project
     ## License
    GNU GENERAL PUBLIC LICENSE 
 Version 3, 29 June 2007
@@ -695,7 +695,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
     ## Contributing
-    Contact me for instructions
+    Conatct me for instructions
     ## Tests
     npm test
     ## Questions
