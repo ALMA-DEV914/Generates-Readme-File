@@ -1,27 +1,25 @@
 # Readme Generator
-This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
+    This project is licensed under the [![GNU License](https://img.shields.io/badge/license-GNU-blue.svg)](#license) .
         
-## Description:
-This app helps you build or create a proffessional Readme file for your projects
+    ## Description:
+    Readme Generator
         
         
-## Table of contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+    ## Table of contents
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
         
-## Installation
-npm init -y
-
-## Usage
-The used of this app is to write a Readme file faster
-
-## License
-GNU GENERAL PUBLIC LICENSE 
+    ## Installation
+    npm init -y
+    ## Usage
+    It helps you write Readme file faster for your projects
+    ## License
+   GNU GENERAL PUBLIC LICENSE 
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -696,14 +694,11 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-
-## Contributing
-Contact me for the instructions and guide
-
-## Tests
-npm test
-
-## Questions
-For questions please contact: Alma Braun
-at  augonalna58@gmail.com
-Github Profile: https://github.com/ALMA-DEV914 
+    ## Contributing
+    Contact me for instructions
+    ## Tests
+    npm test
+    ## Questions
+    For questions please contact: Alma Braun
+    at  aungonalna58@gmail.com
+    Github Profile: https://github.com/ALMA-DEV914 

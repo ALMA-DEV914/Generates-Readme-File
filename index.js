@@ -118,19 +118,14 @@ const inquirer = require('inquirer');
         
     ## Installation
     ${response.install}
-
     ## Usage
     ${response.usage}
-
     ## License
    ${genLicense}
-
     ## Contributing
     ${response.contribute}
-
     ## Tests
     ${response.test}
-
     ## Questions
     For questions please contact: ${response.author}
     at  ${response.email}
@@ -154,4 +149,3 @@ const inquirer = require('inquirer');
 
 // Function call to initialize app
  //init();
-
